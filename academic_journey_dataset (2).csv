@@ -1,0 +1,244 @@
+Date,Semester,Course_Load,Study_Hours,Sleep_Hours,Stress_Level,Productivity_Level,Assignment_Score,Exam_Status,Is_Weekend,Notes
+09/01/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Start of semester
+09/02/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/03/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/04/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/05/2025,Fall 2025,3,2,8,1,2,83,None,TRUE,Study on Weekend
+09/06/2025,Fall 2025,3,2,8,1,2,83,None,TRUE,Social media scrolling
+09/07/2025,Fall 2025,3,2,8,1,2,83,None,TRUE,Social media scrolling
+09/08/2025,Fall 2025,3,6,8,2,3,87,None,FALSE,Regular Study and Attend class
+09/09/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/10/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/11/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/12/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/13/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+09/14/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+09/15/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/16/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/17/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/18/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/19/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/20/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+09/21/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+09/22/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/23/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/24/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/25/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/26/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/27/2025,Fall 2025,3,2,8,1,2,84,None,TRUE,Social media scrolling
+09/28/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+09/29/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+09/30/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/01/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/02/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/03/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/04/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+10/05/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+10/06/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/07/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/08/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/09/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/10/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Regular Study and Attend class
+10/11/2025,Fall 2025,3,2,8,1,2,84,None,TRUE,Pre-midterm weekend study
+10/12/2025,Fall 2025,3,2,8,1,2,86,None,TRUE,Pre-midterm weekend study
+10/13/2025,Fall 2025,3,7,8,3,3,80,None,FALSE,Pre-midterm study
+10/14/2025,Fall 2025,3,6,7,3,3,78,None,TRUE,Pre-midterm weekend study
+10/15/2025,Fall 2025,3,8,7,4,4,75,Midterm,FALSE,Midterm period
+10/16/2025,Fall 2025,3,8,7,4,4,75,Midterm,FALSE,Midterm period
+10/17/2025,Fall 2025,3,4,8,3,3,80,Midterm,TRUE,Midterm period
+10/18/2025,Fall 2025,3,2,8,1,2,80,Midterm,TRUE,Midterm period
+10/19/2025,Fall 2025,3,2,8,1,2,80,Midterm,TRUE,Midterm period
+10/20/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/21/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/22/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/23/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/24/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/25/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+10/26/2025,Fall 2025,3,2,8,1,2,85,None,TRUE,Social media scrolling
+10/27/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/28/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/29/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/30/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+10/31/2025,Fall 2025,3,6,8,2,3,85,None,FALSE,Regular Study and Attend class
+12/01/2025,Fall 2025,3,7,8,3,3,85,None,FALSE,Regular Study and Attend class
+12/02/2025,Fall 2025,3,7,8,3,3,85,None,FALSE,Regular Study and Attend class
+12/03/2025,Fall 2025,3,7,8,3,3,85,None,FALSE,Regular Study and Attend class
+12/04/2025,Fall 2025,3,7,8,3,3,85,None,FALSE,Pre-finals study
+12/05/2025,Fall 2025,3,7,8,3,3,85,None,FALSE,Pre-finals study
+12/06/2025,Fall 2025,3,7,7,4,4,85,Final,TRUE,Pre-finals study
+12/07/2025,Fall 2025,3,7,7,4,4,85,Final,TRUE,Pre-finals study
+12/08/2025,Fall 2025,3,8,7,4,4,85,Final,FALSE,Finals period approaching
+12/09/2025,Fall 2025,3,8,7,4,4,85,Final,FALSE,Finals period approaching
+12/10/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/11/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/12/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Study on weekend during finals
+12/13/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Study on weekend during finals
+12/14/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Finals period
+12/15/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/16/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/17/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/18/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/19/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/20/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Finals period
+12/21/2025,Fall 2025,3,2,9,1,2,90,None,TRUE,Finals period
+12/22/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Finals period
+12/23/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Finals period
+12/24/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Finals period
+12/25/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Winter break
+12/26/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Winter break
+12/27/2025,Fall 2025,3,2,9,1,2,90,None,TRUE,Winter break
+12/28/2025,Fall 2025,3,2,9,1,2,90,None,TRUE,Winter break
+12/29/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Winter break
+12/30/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Winter break
+12/31/2025,Fall 2025,3,3,9,1,2,90,None,FALSE,Winter break
+01/01/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/02/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/03/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/04/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/05/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/06/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/07/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/08/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/09/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/10/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/11/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/12/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/13/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/14/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/15/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/16/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/17/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/18/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/19/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/20/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/21/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/22/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/23/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/24/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/25/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+01/26/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/27/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/28/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/29/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/30/2026,Spring 2026,5,7,8,2,3,88,None,FALSE,Holiday Month
+01/31/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+02/01/2026,Spring 2026,5,2,8,1,2,88,None,TRUE,Holiday Month
+02/02/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Start of Spring semester - 5 courses + Internship
+02/03/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/04/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/05/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/06/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/07/2026,Spring 2026,5,2,8,1,2,85,None,TRUE,Regular Study on weekend
+02/08/2026,Spring 2026,5,2,8,1,2,85,None,TRUE,Social media scrolling
+02/09/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/10/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/11/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/12/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/13/2026,Spring 2026,5,7,8,2,3,85,None,FALSE,Regular Study and Attend class
+02/14/2026,Spring 2026,5,2,8,1,2,85,None,TRUE,Regular Study on weekend
+02/15/2026,Spring 2026,5,2,8,1,2,85,None,TRUE,Social media scrolling
+02/16/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/17/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/18/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/19/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/20/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/21/2026,Spring 2026,5,2,8,1,2,82,None,TRUE,Regular Study on weekend
+02/22/2026,Spring 2026,5,2,8,1,2,82,None,TRUE,Social media scrolling
+02/23/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/24/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/25/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/26/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/27/2026,Spring 2026,5,8,8,3,3,82,None,FALSE,Regular Study and Attend class
+02/28/2026,Spring 2026,5,2,8,1,2,82,None,TRUE,Social media scrolling
+03/01/2026,Spring 2026,5,3,8,2,3,90,None,TRUE,Study on weekend
+03/02/2026,Spring 2026,5,7,8,2,3,90,None,FALSE,Regular Study and Attend class
+03/03/2026,Spring 2026,5,7,8,2,3,90,None,FALSE,Regular Study and Attend class
+03/04/2026,Spring 2026,5,7,8,2,3,90,None,FALSE,Regular Study and Attend class
+03/05/2026,Spring 2026,5,7,8,2,3,90,None,FALSE,Regular Study and Attend class
+03/06/2026,Spring 2026,5,7,8,2,3,90,None,FALSE,Regular Study and Attend class
+03/07/2026,Spring 2026,5,3,8,3,3,90,None,TRUE,Regular Study and Attend class
+03/08/2026,Spring 2026,5,3,7,3,3,90,None,TRUE,Regular Study and Attend class
+03/09/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+03/10/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+03/11/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+03/12/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+03/13/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+03/14/2026,Spring 2026,5,3,7,4,3,90,None,TRUE,Midterm period - High stress
+03/15/2026,Spring 2026,5,9,6,5,4,80,Midterm,FALSE,Midterm period - High stress
+03/16/2026,Spring 2026,5,9,6,5,4,80,Midterm,FALSE,Midterm period - High stress
+03/17/2026,Spring 2026,5,9,6,5,4,85,Midterm,FALSE,Midterm period - High stress
+03/18/2026,Spring 2026,5,8,7,3,3,85,Midterm,FALSE,Midterm period - High stress
+03/19/2026,Spring 2026,5,8,7,3,3,85,Midterm,FALSE,Midterm period - High stress
+03/20/2026,Spring 2026,5,8,7,3,3,85,Midterm,FALSE,Midterm period - High stress
+03/21/2026,Spring 2026,5,2,7,3,3,85,Midterm,TRUE,Midterm period - High stress
+03/22/2026,Spring 2026,5,2,7,3,3,87,None,TRUE,Social media scrolling
+03/23/2026,Spring 2026,5,8,7,3,3,87,None,FALSE,Regular Study and Attend class
+03/24/2026,Spring 2026,5,8,7,3,3,87,None,FALSE,Regular Study and Attend class
+03/25/2026,Spring 2026,5,8,7,3,3,87,None,FALSE,Regular Study and Attend class
+03/26/2026,Spring 2026,5,8,7,3,3,87,None,FALSE,Regular Study and Attend class
+03/27/2026,Spring 2026,5,8,7,3,3,87,None,FALSE,Regular Study and Attend class
+03/28/2026,Spring 2026,5,2,7,3,3,87,None,TRUE,Social media scrolling
+03/29/2026,Spring 2026,5,2,7,3,3,90,None,TRUE,Social media scrolling
+03/30/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+03/31/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/01/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/02/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/03/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/04/2026,Spring 2026,5,3,7,2,3,90,None,TRUE,Social media scrolling
+04/05/2026,Spring 2026,5,3,7,2,3,90,None,TRUE,Social media scrolling
+04/06/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/07/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/08/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/09/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/10/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Regular Study and Attend class
+04/11/2026,Spring 2026,5,3,7,2,3,90,None,TRUE,Social media scrolling
+04/12/2026,Spring 2026,5,3,7,2,3,90,None,TRUE,Social media scrolling
+04/13/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Building toward finals
+04/14/2026,Spring 2026,5,8,7,3,3,90,None,FALSE,Building toward finals
+04/15/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Building toward finals
+04/16/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Building toward finals
+04/17/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Building toward finals
+04/18/2026,Spring 2026,5,5,7,3,3,90,None,TRUE,Pre-finals weekend study
+04/19/2026,Spring 2026,5,5,7,3,3,90,None,TRUE,Pre-finals weekend study
+04/20/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Pre-finals weekend study
+04/21/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Pre-finals weekend study
+04/22/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Pre-finals weekend study
+04/23/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Pre-finals weekend study
+04/24/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Pre-finals weekend study
+04/25/2026,Spring 2026,5,5,7,3,3,90,None,TRUE,Pre-finals weekend study
+04/26/2026,Spring 2026,5,5,7,3,3,90,None,TRUE,Pre-finals weekend study
+04/27/2026,Spring 2026,5,9,7,4,4,90,None,FALSE,Pre-finals weekend study
+04/28/2026,Spring 2026,5,9,7,4,4,92,None,FALSE,Pre-finals weekend study
+04/29/2026,Spring 2026,5,9,7,4,4,92,None,FALSE,Pre-finals weekend study
+04/30/2026,Spring 2026,5,9,7,4,4,92,None,FALSE,Finals period approaching
+05/01/2026,Spring 2026,5,9,7,4,4,92,Final,FALSE,Finals period approaching
+05/02/2026,Spring 2026,5,6,7,4,4,92,Final,TRUE,Pre-finals study
+05/03/2026,Spring 2026,5,6,7,4,4,92,Final,TRUE,Pre-finals study
+05/04/2026,Spring 2026,5,9,7,4,4,92,Final,FALSE,Finals period approaching
+05/05/2026,Spring 2026,5,9,7,4,4,92,Final,FALSE,Finals period approaching
+05/06/2026,Spring 2026,5,9,7,4,4,92,Final,FALSE,Finals period approaching
+05/07/2026,Spring 2026,5,9,7,4,4,92,Final,FALSE,Finals period approaching
+05/08/2026,Spring 2026,5,9,7,4,4,92,Final,FALSE,Finals period approaching
+05/09/2026,Spring 2026,5,6,7,4,4,92,Final,TRUE,Pre-finals study
+05/10/2026,Spring 2026,5,6,7,4,4,92,Final,TRUE,Pre-finals study
+05/11/2026,Spring 2026,5,9,7,4,4,92,Final,FALSE,Finals period approaching
+05/12/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Current Date - Final term period
+05/13/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Finals weekend study
+05/14/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Finals weekend study
+05/15/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/16/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/17/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/18/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Finals weekend study
+05/19/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Finals weekend study
+05/20/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Finals weekend study
+05/21/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Finals weekend study
+05/22/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Finals weekend study
+05/23/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/24/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/25/2026,Spring 2026,5,12,5,5,5,95,Final,FALSE,Project Submission Deadline
+05/26/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,Project Submission Deadline
+05/27/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,Project Submission Deadline
+05/28/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,Project Submission Deadline
+05/29/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,Project Submission Deadline
+05/30/2026,Spring 2026,5,8,6,5,5,95,Final,TRUE,Post-deadline finals wrap-up
+05/31/2026,Spring 2026,5,8,6,5,5,95,Final,TRUE,Post-deadline finals wrap-up
